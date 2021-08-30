@@ -4,6 +4,5 @@ Git add .
 Git commit -m "message"
 Git push origin master
 Adding a new branch
-prctice for pull command
-practice for fetch command
-practice for merge confilct
+there is confilct
+
