@@ -1,0 +1,14 @@
+L:\BridgeLabz Solution\Dot net\August\28-08-2021\helloWorld\helloWorld\bin\Debug\netcoreapp3.1\helloWorld.exe
+L:\BridgeLabz Solution\Dot net\August\28-08-2021\helloWorld\helloWorld\bin\Debug\netcoreapp3.1\helloWorld.deps.json
+L:\BridgeLabz Solution\Dot net\August\28-08-2021\helloWorld\helloWorld\bin\Debug\netcoreapp3.1\helloWorld.runtimeconfig.json
+L:\BridgeLabz Solution\Dot net\August\28-08-2021\helloWorld\helloWorld\bin\Debug\netcoreapp3.1\helloWorld.runtimeconfig.dev.json
+L:\BridgeLabz Solution\Dot net\August\28-08-2021\helloWorld\helloWorld\bin\Debug\netcoreapp3.1\helloWorld.dll
+L:\BridgeLabz Solution\Dot net\August\28-08-2021\helloWorld\helloWorld\bin\Debug\netcoreapp3.1\helloWorld.pdb
+L:\BridgeLabz Solution\Dot net\August\28-08-2021\helloWorld\helloWorld\obj\Debug\netcoreapp3.1\helloWorld.csproj.AssemblyReference.cache
+L:\BridgeLabz Solution\Dot net\August\28-08-2021\helloWorld\helloWorld\obj\Debug\netcoreapp3.1\helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+L:\BridgeLabz Solution\Dot net\August\28-08-2021\helloWorld\helloWorld\obj\Debug\netcoreapp3.1\helloWorld.AssemblyInfoInputs.cache
+L:\BridgeLabz Solution\Dot net\August\28-08-2021\helloWorld\helloWorld\obj\Debug\netcoreapp3.1\helloWorld.AssemblyInfo.cs
+L:\BridgeLabz Solution\Dot net\August\28-08-2021\helloWorld\helloWorld\obj\Debug\netcoreapp3.1\helloWorld.csproj.CoreCompileInputs.cache
+L:\BridgeLabz Solution\Dot net\August\28-08-2021\helloWorld\helloWorld\obj\Debug\netcoreapp3.1\helloWorld.dll
+L:\BridgeLabz Solution\Dot net\August\28-08-2021\helloWorld\helloWorld\obj\Debug\netcoreapp3.1\helloWorld.pdb
+L:\BridgeLabz Solution\Dot net\August\28-08-2021\helloWorld\helloWorld\obj\Debug\netcoreapp3.1\helloWorld.genruntimeconfig.cache
