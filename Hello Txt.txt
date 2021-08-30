@@ -1,0 +1,5 @@
+Git init
+Git remote add origin url of git
+Git add .
+Git commit -m "message"
+Git push origin master
